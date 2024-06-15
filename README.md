@@ -1,1 +1,1 @@
-# CS6515_FA21-MSTKruskal
+# Minimum Spanning Tree w/ Kruskal
